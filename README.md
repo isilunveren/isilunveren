@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+ - 👩‍💻 I'm studying Computer Science at Bilkent University.
+ - 📚 I'm a first year student.
 <!--
 **isilunveren/isilunveren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
